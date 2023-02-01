@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/marco-oliva/pfp/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: d35201cb4b1f20412b83b895354737f1a0784509a6353223b025ec9b3a882b57
+  sha256: b6b79643382229a1735171bc90aec59319ec59ab617cedf376b08cc3bdcf5468
 
 build:
   number: 0
